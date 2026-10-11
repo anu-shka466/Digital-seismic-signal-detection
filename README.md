@@ -1,2 +1,4 @@
-# Digital-Echo-System
-TY DSP mini project implementing a Digital Echo System using the Z-Transform with a React frontend, Python backend, waveform visualization, and downloadable echoed audio.
+Digital Seismic Signal Detection System Using Z-Transform
+
+Problem Statement
+Design and implement a digital seismic signal detection system using Z-transform-based digital filtering to identify significant vibration events in noisy signals.
